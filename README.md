@@ -1,3 +1,9 @@
+**Họ và tên:** Trần Hoàng Phương Dung  
+**Lớp:** K57 Kinh tế số  
+**Học phần:** ECO2432 — Tiền điện tử và Hợp đồng thông minh  
+
+Repository này lưu trữ các bài thực hành cá nhân từ Lab 1 đến Lab 7 của học phần ECO2432.
+
 # ECO2432 Web3 Starter
 
 Kho khởi đầu dùng xuyên suốt 15 bài thực hành.
